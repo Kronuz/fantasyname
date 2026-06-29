@@ -1,2 +1,5 @@
 *.o
 namegen
+
+# CMake build dir (Kronuz)
+build/
